@@ -1,0 +1,19 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: pink;
+}
+#tbfich td,th{
+	background-color: white;
+}
+#tbfich{
+	width: 60%;
+	margin-bottom: 30px;
+}
+.bouton{
+	margin-top:10px;
+}
+#bt{
+	margin-left: 20px;
+}
